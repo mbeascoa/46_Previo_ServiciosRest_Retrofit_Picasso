@@ -1,0 +1,2 @@
+rootProject.name = "46_Previo_ServiciosRest_Retrofit_Picasso"
+include ':app'
